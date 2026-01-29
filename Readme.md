@@ -19,4 +19,4 @@ Live Demo (Deployed on vercel):
 
 ## SnapShot
 
-<img width="500" height="640" alt="Screenshot 2026-01-29 173141" src="https://github.com/user-attachments/assets/2cdad6ea-9afa-43fe-be71-20eb02184d22" />
+<img width="470" height="640" alt="Screenshot 2026-01-29 173141" src="https://github.com/user-attachments/assets/2cdad6ea-9afa-43fe-be71-20eb02184d22" />
